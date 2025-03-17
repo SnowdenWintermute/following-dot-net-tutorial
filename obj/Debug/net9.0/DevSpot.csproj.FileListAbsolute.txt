@@ -298,3 +298,4 @@
 /home/mike/projects/DevSpot/obj/Debug/net9.0/DevSpot.pdb
 /home/mike/projects/DevSpot/obj/Debug/net9.0/DevSpot.genruntimeconfig.cache
 /home/mike/projects/DevSpot/obj/Debug/net9.0/ref/DevSpot.dll
+/home/mike/projects/DevSpot/obj/Debug/net9.0/DevSpot.sourcelink.json
